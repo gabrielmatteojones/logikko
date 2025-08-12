@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Home
+parmalink: /
 ---
 
 # Plain Vanilla GitHub Pages
